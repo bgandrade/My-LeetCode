@@ -6,6 +6,7 @@
 !*.h
 !*.md
 !*.txt
+!Makefile
 
 # typical build artifacts
 *.o
