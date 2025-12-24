@@ -1,0 +1,17 @@
+# ignore root-level files without extensions (likely compiled executables)
+/*
+!*/
+!.gitignore
+!*.c
+!*.h
+!*.md
+!*.txt
+
+# typical build artifacts
+*.o
+*.obj
+*.exe
+*.out
+a.out
+*.dSYM/
+*.stackdump
